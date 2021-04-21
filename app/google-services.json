@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020725059767",
+    "project_id": "game-xo-digio",
+    "storage_bucket": "game-xo-digio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020725059767:android:8fab39004f1aadeec4ed32",
+        "android_client_info": {
+          "package_name": "com.example.gamexo_digio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020725059767-aquplei5ih7an3e63takip87h8v66shq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANZytZodc4J_KRNnRRoqU5BBFlZtliuZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020725059767-aquplei5ih7an3e63takip87h8v66shq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
